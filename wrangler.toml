@@ -1,0 +1,7 @@
+name = "qr-proxy"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+routes = [
+  { pattern = "qr.kina.men", zone_name = "kina.men" }
+]
