@@ -28,7 +28,7 @@
    * ===================================================================== */
   var ANALYTICS_SNIPPETS = String.raw`
 /* >>> 统计代码 START —— 把代码粘在这一行下面 */
-<script defer src="https://data.herebuy.us/tracker.js" data-site-id="qr-studio"></script>
+<script id="counterscale-script" defer src="https://data.herebuy.us/tracker.js" data-site-id="qr-studio"></script>
 
 
 /* <<< 统计代码 END —— 粘在这一行上面 */
